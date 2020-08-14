@@ -1,5 +1,5 @@
 _repo: The-Old-Room_62883
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Teixeira de Mattos, Alexander
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+covers:
+- cover_type: archival
+  image_path: 62883-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewald, Carl
@@ -25,6 +28,8 @@ creator:
     - https://da.wikipedia.org/wiki/Carl_Ewald
     - https://en.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62883#The-Old-Room
 gutenberg_issued: '2020-08-08'
 gutenberg_type: Text
 identifiers:
